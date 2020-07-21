@@ -1,0 +1,15 @@
+[submodule "my_plugins/vimcdoc"]
+	path = my_plugins/vimcdoc
+	url = https://gitee.com/didao233/vimcdoc.git
+[submodule "my_plugins/vimcfaq"]
+	path = my_plugins/vimcfaq
+	url = https://gitee.com/didao233/vimcfaq.git
+[submodule "my_plugins/vim-easymotion"]
+	path = my_plugins/vim-easymotion
+	url = https://gitee.com/didao233/vim-easymotion.git
+[submodule "my_plugins/ZFVimIM"]
+	path = my_plugins/ZFVimIM
+	url = https://gitee.com/didao233/ZFVimIM.git
+[submodule "my_plugins/ZFVimIM_pinyin"]
+	path = my_plugins/ZFVimIM_pinyin
+	url = https://gitee.com/didao233/ZFVimIM_pinyin.git
